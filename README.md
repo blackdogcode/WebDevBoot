@@ -5,8 +5,9 @@
 ## Environment & Tools
 [CodePen](https://codepen.io/), [Atom](https://atom.io/)
 
-## HTML
-[HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+## HTML(HTML: Hypertext Markup Language)
+[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [W3Schools](https://www.w3schools.com/html/default.asp)
+
 
 ## CSS
 
