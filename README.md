@@ -6,7 +6,7 @@
 [CodePen](https://codepen.io/), [Atom](https://atom.io/)
 
 ## HTML(HTML: Hypertext Markup Language)
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [Devdocs.io](https://devdocs.io/html/), [W3Schools](https://www.w3schools.com/html/default.asp)
+[Devdocs.io](https://devdocs.io/html/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [W3Schools](https://www.w3schools.com/html/default.asp)
 
 
 ## CSS
