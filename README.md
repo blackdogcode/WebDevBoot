@@ -1,3 +1,6 @@
+## Reference
+[Devdocs.io](https://devdocs.io/html/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [W3Schools](https://www.w3schools.com/html/default.asp)
+
 ## Resource
 [Web Development Course Resources List](https://www.appbrewery.co/p/web-development-course-resources/)\
 [Learn X in Y minutes](https://learnxinyminutes.com/)
@@ -7,9 +10,6 @@
 [Atom Shortcut](https://atom.io/packages/atom-shortcuts)\
 [Emmet.io Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
-## Reference
-[Devdocs.io](https://devdocs.io/html/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [W3Schools](https://www.w3schools.com/html/default.asp)
-
 ## HTML(HTML: Hypertext Markup Language)
 [Unicode (UTF-8) Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp), [Unicode Table](https://unicode-table.com/en/)\
 [meta element - meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
@@ -18,7 +18,7 @@
 [Lists - ul, ol, li](https://www.w3schools.com/html/html_lists.asp)\
 [image - img](https://www.w3schools.com/html/html_images.asp)
 
-## CSS
+## CSS(Cascading Style Sheets)
 
 ## JavaScript
 
