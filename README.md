@@ -15,7 +15,7 @@
 [HTML meta element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
 [HTML paragraph element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)\
 [HTML emphasis element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em), [HTML Strong Importance Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)\
-[HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+[HTML Lists(uo, ol)](https://www.w3schools.com/html/html_lists.asp)
 
 ## CSS
 
