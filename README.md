@@ -16,7 +16,8 @@
 [paragraph element - p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)\
 [emphasis element - em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em), [Strong Element - strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)\
 [Lists - ul, ol, li](https://www.w3schools.com/html/html_lists.asp)\
-[image - img](https://www.w3schools.com/html/html_images.asp)
+[image - img](https://www.w3schools.com/html/html_images.asp)\
+[links - href](https://www.w3schools.com/html/html_links.asp)
 
 ## 2. CSS(Cascading Style Sheets)
 
