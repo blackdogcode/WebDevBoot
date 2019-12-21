@@ -3,11 +3,12 @@
 [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 ## Environment & Tools
-[CodePen](https://codepen.io/), [Atom](https://atom.io/)
+[CodePen](https://codepen.io/), [Atom](https://atom.io/)\
+[Atom Shortcut](https://atom.io/packages/atom-shortcuts)\
+[Emmet.io Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
 ## HTML(HTML: Hypertext Markup Language)
 [Devdocs.io](https://devdocs.io/html/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [W3Schools](https://www.w3schools.com/html/default.asp)
-
 
 ## CSS
 
