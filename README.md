@@ -12,7 +12,7 @@
 
 ## HTML(HTML: Hypertext Markup Language)
 [HTML Unicode (UTF-8) Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp), [Unicode Table](https://unicode-table.com/en/)\
-[ HTML <meta> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
+[HTML <meta> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
 [HTML <p> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)\
 [HTML <em> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)\
 [HTML Strong Importance Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)\
