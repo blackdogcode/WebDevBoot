@@ -18,7 +18,8 @@
 [Lists - ul, ol, li](https://www.w3schools.com/html/html_lists.asp)\
 [image - img](https://www.w3schools.com/html/html_images.asp)\
 [links - a href](https://www.w3schools.com/html/html_links.asp)\
-[table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+[table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)\
+[form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 ## 2. CSS(Cascading Style Sheets)
 
