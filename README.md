@@ -11,11 +11,11 @@
 [Devdocs.io](https://devdocs.io/html/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [W3Schools](https://www.w3schools.com/html/default.asp)
 
 ## HTML(HTML: Hypertext Markup Language)
-[HTML Unicode (UTF-8) Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp), [Unicode Table](https://unicode-table.com/en/)\
-[HTML meta element - meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
-[HTML paragraph element - p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)\
-[HTML emphasis element - em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em), [HTML Strong Element - strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)\
-[HTML Lists - uo, ol](https://www.w3schools.com/html/html_lists.asp)
+[Unicode (UTF-8) Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp), [Unicode Table](https://unicode-table.com/en/)\
+[meta element - meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
+[paragraph element - p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)\
+[emphasis element - em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em), [Strong Element - strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)\
+[Lists - uo, ol](https://www.w3schools.com/html/html_lists.asp)
 
 ## CSS
 
