@@ -20,7 +20,7 @@
 [links - a href](https://www.w3schools.com/html/html_links.asp)\
 [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)\
 [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)\
-[form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+[form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form), [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 
 ## 2. CSS(Cascading Style Sheets)
 
