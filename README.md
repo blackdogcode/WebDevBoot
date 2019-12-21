@@ -10,7 +10,7 @@
 [Atom Shortcut](https://atom.io/packages/atom-shortcuts)\
 [Emmet.io Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
-## HTML(HTML: Hypertext Markup Language)
+## 1. HTML(HTML: Hypertext Markup Language)
 [Unicode (UTF-8) Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp), [Unicode Table](https://unicode-table.com/en/)\
 [meta element - meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
 [paragraph element - p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)\
@@ -18,9 +18,9 @@
 [Lists - ul, ol, li](https://www.w3schools.com/html/html_lists.asp)\
 [image - img](https://www.w3schools.com/html/html_images.asp)
 
-## CSS(Cascading Style Sheets)
+## 2. CSS(Cascading Style Sheets)
 
-## JavaScript
+## 3. JavaScript
 
 ## Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
