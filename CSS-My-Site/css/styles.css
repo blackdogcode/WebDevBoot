@@ -6,6 +6,26 @@ h1 {
   margin: 0;
 }
 
-div {
+
+.topDiv {
   background-color: darkturquoise;
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+.middleDiv {
+  background-color: blue;
+  border: solid 20px;
+  height: 200px;
+  width: 200px;
+  margin-left: 260px;
+}
+
+.bottomDiv {
+  background-color: red;
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  margin-left: 500px;
 }
