@@ -14,16 +14,11 @@ h1 {
   position: relative;
   padding-top: 70px;
 }
+
 .middleDiv {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
 }
 
 .bottomDiv {
-  background-color: red;
-  height: 200px;
-  width: 200px;
 }
 
 .pro {
