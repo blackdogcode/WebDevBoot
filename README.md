@@ -38,9 +38,11 @@
 ### CSS Reference
 [Loream Ipsum.io](https://loremipsum.io/), [Flat Icon.io](https://www.flaticon.com/), [Giphy gif Images](https://giphy.com/)
 
-## 3. JavaScript
+## 3. Bootstrap Framework
 
-## Tips
+## 4. JavaScript
+
+## 5. Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
 
 ## Others
