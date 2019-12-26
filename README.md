@@ -21,6 +21,7 @@
 [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)\
 [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)\
 [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form), [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+[hr - Horizontal Rule](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
 
 ## 2. CSS(Cascading Style Sheets)
 [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)\
@@ -28,6 +29,7 @@
 
 ![css box modeling](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/css-box-model.png)
 
+[CSS - border](https://developer.mozilla.org/en-US/docs/Web/CSS/border), [CSS - border style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)\
 [CSS - display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)\
 [CSS - margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin), [CSS- padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)\
 [CSS - float](https://developer.mozilla.org/en-US/docs/Web/CSS/float), [CSS - clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
