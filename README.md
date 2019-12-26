@@ -42,6 +42,7 @@
 [Loream Ipsum.io](https://loremipsum.io/), [Flat Icon.io](https://www.flaticon.com/), [Giphy gif Images](https://giphy.com/)
 
 ## 3. Bootstrap Framework
+[Boot Strap](https://getbootstrap.com/), [Codeply](https://www.codeply.com/)
 
 ## 4. JavaScript
 
@@ -49,4 +50,5 @@
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
 
 ## Others
-[Web Archive](http://web.archive.org/)
+[Web Archive](http://web.archive.org/)\
+[Submarin Cable Map](https://www.submarinecablemap.com/)
