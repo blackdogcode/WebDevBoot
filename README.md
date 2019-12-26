@@ -24,7 +24,8 @@
 
 ## 2. CSS(Cascading Style Sheets)
 [Loream Ipsum.io](https://loremipsum.io/)\
-[Flat Icon.io](https://www.flaticon.com/)
+[Flat Icon.io](https://www.flaticon.com/)\
+[Giphy gif Images](https://giphy.com/)
 
 ## 3. JavaScript
 
