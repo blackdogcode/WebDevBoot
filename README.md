@@ -23,6 +23,7 @@
 [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form), [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 
 ## 2. CSS(Cascading Style Sheets)
+[Loream Ipsum.io](https://loremipsum.io/)
 
 ## 3. JavaScript
 
