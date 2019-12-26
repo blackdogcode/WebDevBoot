@@ -5,28 +5,39 @@ body {
 }
 
 h1 {
-  font-size: 4.5rem;
+  color: #66BFBF;
+  font-size: 5.0rem;
   font-family: 'Sacramento', cursive;
   margin: 30px auto 0 auto;
 }
 
 h2 {
-  font-size: 1.5rem;
+  color: #66BFBF;
+  font-size: 1.2rem;
 }
 
-.topDiv {
-  background-color: deepskyblue;
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: white;
   position: relative;
   padding-top: 70px;
 }
 
-.middleDiv {
+.middle-container {
 }
 
-.bottomDiv {
+.bottom-container {
 }
 
 .pro {
+  font-weight: normal;
   text-decoration: underline;
 }
 
