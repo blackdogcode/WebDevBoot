@@ -5,8 +5,13 @@ body {
 }
 
 h1 {
+  font-size: 4.5rem;
   font-family: 'Sacramento', cursive;
-  margin-top: 0;
+  margin: 30px auto 0 auto;
+}
+
+h2 {
+  font-size: 1.5rem;
 }
 
 .topDiv {
