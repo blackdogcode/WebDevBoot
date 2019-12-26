@@ -6,8 +6,8 @@
 [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 ## Environment & Tools
-[CodePen](https://codepen.io/), [Atom](https://atom.io/)\
-[Atom Shortcut](https://atom.io/packages/atom-shortcuts)\
+[CodePen](https://codepen.io/), [Codeply](https://www.codeply.com/)\
+[Atom](https://atom.io/), [Atom Shortcut](https://atom.io/packages/atom-shortcuts)\
 [Emmet.io Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
 ## 1. HTML(HTML: Hypertext Markup Language)
@@ -41,8 +41,8 @@
 ### CSS Reference
 [Loream Ipsum.io](https://loremipsum.io/), [Flat Icon.io](https://www.flaticon.com/), [Giphy gif Images](https://giphy.com/)
 
-## 3. Bootstrap Framework
-[Boot Strap](https://getbootstrap.com/), [Codeply](https://www.codeply.com/)
+## 3. Bootstrap Front-End Framework
+[Boot Strap](https://getbootstrap.com/)
 
 ## 4. JavaScript
 
