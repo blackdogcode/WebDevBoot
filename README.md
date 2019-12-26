@@ -27,7 +27,7 @@
 [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
 
-![css box modeling](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/css-box-model.png = 512x512)
+![css box modeling](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/css-box-model.png){:height="256" width="256"}
 
 [Loream Ipsum.io](https://loremipsum.io/), [Flat Icon.io](https://www.flaticon.com/), [Giphy gif Images](https://giphy.com/)
 
