@@ -31,7 +31,7 @@
 
 ![css box modeling](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/css-box-model.png)
 
-[CSS - Positiong(Relative, Absolute](https://developer.mozilla.org/en-US/docs/Web/CSS/position)\
+[CSS - Positiong(Relative, Absolute)](https://developer.mozilla.org/en-US/docs/Web/CSS/position)\
 [CSS - border](https://developer.mozilla.org/en-US/docs/Web/CSS/border), [CSS - border style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)\
 [CSS - display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)\
 [CSS - margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin), [CSS- padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)\
