@@ -3,7 +3,10 @@
 
 ## Resource
 [Web Development Course Resources List](https://www.appbrewery.co/p/web-development-course-resources/)\
-[Learn X in Y minutes](https://learnxinyminutes.com/)
+[Learn X in Y minutes](https://learnxinyminutes.com/)\
+[dribble - Word top designer's web designs](https://dribbble.com/)\
+[UI - Design Patterns](http://ui-patterns.com/patterns)\
+[Sneakpeekit - design paper](https://sneakpeekit.com/), [Balsamiq - Web UI desing tool](https://balsamiq.cloud/)
 
 ## Environment & Tools
 [CodePen](https://codepen.io/), [Codeply](https://www.codeply.com/)\
@@ -42,7 +45,9 @@
 [Loream Ipsum.io](https://loremipsum.io/), [Flat Icon.io](https://www.flaticon.com/), [Giphy gif Images](https://giphy.com/)
 
 ## 3. Bootstrap Front-End Framework
-[Boot Strap](https://getbootstrap.com/)
+[Boot Strap](https://getbootstrap.com/)\
+
+
 
 ## 4. JavaScript
 
