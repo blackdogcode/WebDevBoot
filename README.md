@@ -13,6 +13,8 @@
 [Atom](https://atom.io/), [Atom Shortcut](https://atom.io/packages/atom-shortcuts)\
 [Emmet.io Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
+## 0. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+
 ## 1. [HTML(HTML: Hypertext Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [HTML Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)\
 [Unicode (UTF-8) Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp), [Unicode Table](https://unicode-table.com/en/)\
