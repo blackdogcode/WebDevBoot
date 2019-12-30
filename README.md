@@ -31,7 +31,7 @@
 [hr - Horizontal Rule](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)\
 [button - Button Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button), [button - coding guide](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Firefox_OS_apps/Building_blocks/1.x/Button)
 
-## 2. CSS(Cascading Style Sheets)
+## 2. [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)\
 [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)\
 [CSS - Pseudoclass](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
