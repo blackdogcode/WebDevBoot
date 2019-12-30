@@ -18,19 +18,7 @@
 [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 ## 1. [HTML(HTML: Hypertext Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[HTML Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)\
-[Unicode (UTF-8) Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp), [Unicode Table](https://unicode-table.com/en/)\
-[meta element - meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)\
-[paragraph element - p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)\
-[emphasis element - em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em), [Strong Element - strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)\
-[Lists - ul, ol, li](https://www.w3schools.com/html/html_lists.asp)\
-[image - img](https://www.w3schools.com/html/html_images.asp)\
-[links - a href](https://www.w3schools.com/html/html_links.asp)\
-[table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)\
-[div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)\
-[form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form), [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)\
-[hr - Horizontal Rule](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)\
-[button - Button Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button), [button - coding guide](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Firefox_OS_apps/Building_blocks/1.x/Button)
+[Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 ## 2. [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)\
@@ -51,7 +39,6 @@
 
 ## 3. Bootstrap Front-End Framework
 [Boot Strap](https://getbootstrap.com/)\
-
 
 
 ## 4. JavaScript
