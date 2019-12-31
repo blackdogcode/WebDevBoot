@@ -1,21 +1,7 @@
-## Reference
-[Devdocs.io](https://devdocs.io/html/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML), [W3Schools](https://www.w3schools.com/html/default.asp)
-
-## Resource
-[Web Development Course Resources List](https://www.appbrewery.co/p/web-development-course-resources/)\
-[Learn X in Y minutes](https://learnxinyminutes.com/)\
-[dribble - Word top designer's web designs](https://dribbble.com/)\
-[UI - Design Patterns](http://ui-patterns.com/patterns)\
-[Sneakpeekit - design paper](https://sneakpeekit.com/), [Balsamiq - Web UI desing tool](https://balsamiq.cloud/)
-
-## Environment & Tools
-[CodePen](https://codepen.io/), [Codeply](https://www.codeply.com/)\
-[Atom](https://atom.io/), [Atom Shortcut](https://atom.io/packages/atom-shortcuts)\
-[Emmet.io Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
-
 ## 0. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 [Installing basic software](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)\
 [What will your website look like?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)\
+[How do you set up a local testing server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)\
 [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 ## 1. [HTML(HTML: Hypertext Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
