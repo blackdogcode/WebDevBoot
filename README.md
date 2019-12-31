@@ -18,7 +18,10 @@
 [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 ## 1. [HTML(HTML: Hypertext Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+[Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)\
+[What’s in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
+
 
 ## 2. [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)\
