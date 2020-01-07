@@ -1,13 +1,13 @@
-## Articles
+## 0. Articles
 
-## 0. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 [MDN - Installing basic software](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)\
 [MDN - What will your website look like?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)\
 [MDN - How do you set up a local testing server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)\
 [MDN - Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)\
 [MDN - How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
-## 1. [HTML(HTML: Hypertext Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+## 2. [HTML(HTML: Hypertext Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [MDN - Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)\
 [MDN - What’s in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)\
 [MDN - HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)\
@@ -16,7 +16,7 @@
 [Test your skills: HTML text basics 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)\
 [Test your skills: Link 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
 
-## 2. [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+## 3. [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)\
 [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)\
 [CSS - Pseudoclass](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
@@ -33,13 +33,13 @@
 ### CSS Reference
 [Loream Ipsum.io](https://loremipsum.io/), [Flat Icon.io](https://www.flaticon.com/), [Giphy gif Images](https://giphy.com/)
 
-## 3. Bootstrap Front-End Framework
+## 4. Bootstrap Front-End Framework
 [Boot Strap Home](https://getbootstrap.com/)\
 
 
-## 4. JavaScript
+## 5. JavaScript
 
-## 5. Tips
+## 6. Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
 
 ## Others
