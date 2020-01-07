@@ -40,7 +40,7 @@
 [Boot Strap Home](https://getbootstrap.com/)\
 
 
-## 5. JavaScript
+## 5. [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
 ## 6. Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
