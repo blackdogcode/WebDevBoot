@@ -1,5 +1,5 @@
 ## 0. Articles
-[What is REST?](https://www.codecademy.com/articles/what-is-rest), [What is CRUD?](https://www.codecademy.com/articles/what-is-crud\
+[What is REST?](https://www.codecademy.com/articles/what-is-rest), [What is CRUD?](https://www.codecademy.com/articles/what-is-crud)\
 [How does single sign-on work?](https://www.onelogin.com/learn/how-single-sign-on-works)
 
 
@@ -41,6 +41,7 @@
 
 
 ## 5. [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+[What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)\
 
 ## 6. Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
