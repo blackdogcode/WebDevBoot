@@ -1,4 +1,5 @@
 ## 0. Articles
+[What is CRUD?](https://www.codecademy.com/articles/what-is-crud)
 
 ## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 [MDN - Installing basic software](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)\
