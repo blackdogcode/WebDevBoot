@@ -43,7 +43,10 @@
 ## 5. [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 <uo>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">Document Object Model (DOM)</a>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">Document Object Model (DOM)</a
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">Introduction to the DOM</a>
+    </ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation">Geolocation</a>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL: 2D and 3D graphics for the web</a>
