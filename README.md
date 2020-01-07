@@ -42,17 +42,17 @@
 
 ## 5. [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-<uo>
+<ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">Document Object Model (DOM)</a>
-    <uo>
+    <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">Introduction to the DOM</a></li>
-    </uo>
+    </ul>
   </li>  
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation">Geolocation</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL: 2D and 3D graphics for the web</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery">Audio and Video Delivery</a></li>  
-</uo>
+</ul>
 
 ## 6. Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
