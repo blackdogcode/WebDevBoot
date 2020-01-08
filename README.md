@@ -1,7 +1,7 @@
 ## 0. Articles
 [What is REST?](https://www.codecademy.com/articles/what-is-rest), [What is CRUD?](https://www.codecademy.com/articles/what-is-crud)\
-[How does single sign-on work?](https://www.onelogin.com/learn/how-single-sign-on-works)
-
+[How does single sign-on work?](https://www.onelogin.com/learn/how-single-sign-on-works)\
+[What are IMAP and POP?](https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US)
 
 ## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 [MDN - Installing basic software](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)\
