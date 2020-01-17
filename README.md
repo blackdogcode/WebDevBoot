@@ -20,6 +20,9 @@
 [Test your skills: Link 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
 
 ## 3. [Learn to style HTML usi(ng CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+
+![HTML Element Anatomoy](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/HTML/html_element_anatomy.png)
+
 [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)\
 [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)\
 [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)\
