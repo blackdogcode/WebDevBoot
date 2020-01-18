@@ -21,6 +21,7 @@
       <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes" target="_blank">Types_of_CSS_boxes</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements" target="_blank">Block Level Elemnt</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements" target="_blank">Inline Element</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Entity_references_Including_special_characters_in_HTML" target="_blank">use HTML entities</a></li>
     </ul>
   </li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank" target="_blank">What’s in the head? Metadata in HTML</a></li>
