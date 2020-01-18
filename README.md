@@ -14,7 +14,7 @@
 <ol>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Getting started with HTML</a>
     <ul>
-    <li><a herf="https://html.spec.whatwg.org/multipage/indices.html#element-content-categories">Element content categories</a>
+    <li><a herf="https://html.spec.whatwg.org/multipage/indices.html#element-content-categories">Element content categories</a></li>
     </ul>
   </li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">What’s in the head? Metadata in HTML</a></li>
