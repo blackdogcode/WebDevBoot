@@ -37,7 +37,11 @@
     </ul>
   </li>
   
-  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals" target="_blank">HTML text fundamentals</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals" target="_blank">HTML text fundamentals</a>
+    <ul>
+      <li><a href="https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/">we usually spend a very short time on a web page</a></li>
+    </ul>
+  </li>
   
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks" target="_blank">Creating hyperlinks]</a></li>
   
