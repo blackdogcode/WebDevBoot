@@ -28,6 +28,7 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">What’s in the head? Metadata in HTML</a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools">developer tools</a></li>
+      <li><a href="https://www.fileformat.info/info/charset/UTF-8/list.htm">Character List for UTF-8</a></li>
     </ul>
   </li>
   
