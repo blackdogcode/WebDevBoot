@@ -15,18 +15,26 @@
 ![HTML Element Anatomoy](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/HTML/html_element_anatomy.png)
 
 <ol>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank">Getting started with HTML</a>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Getting started with HTML</a>
     <ul>
-      <li><a href="https://html.spec.whatwg.org/multipage/indices.html#element-content-categories" target="_blank">Element content categories</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes" target="_blank">Types_of_CSS_boxes</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements" target="_blank">Block Level Elemnt</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements" target="_blank">Inline Element</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Entity_references_Including_special_characters_in_HTML" target="_blank">use HTML entities</a></li>
+      <li><a href="https://html.spec.whatwg.org/multipage/indices.html#element-content-categories">Element content categories</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes">Types_of_CSS_boxes</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements">Block Level Elemnt</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements">Inline Element</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Entity_references_Including_special_characters_in_HTML">use HTML entities</a></li>
     </ul>
   </li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank" target="_blank">What’s in the head? Metadata in HTML</a></li>
+  
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">What’s in the head? Metadata in HTML</a>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools">developer tools</a></li>
+    </ul>
+  </li>
+  
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals" target="_blank">HTML text fundamentals</a></li>
+  
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks" target="_blank">Creating hyperlinks]</a></li>
+  
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting" target="_blank">Advanced text formatting</a></li>
 </ol>
   
