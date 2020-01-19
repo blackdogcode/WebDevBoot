@@ -32,6 +32,7 @@
       <li><a href="https://www.fileformat.info/info/charset/UTF-8/list.htm">Character List for UTF-8</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/SEO">SEO (Search Engine Optimization)</a></li>
       <li><a href="https://search.google.com/search-console/welcome?hl=en&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home">Google's webmaster tools</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">Open Graph Data by Facebook</a></li>
     </ul>
   </li>
   
