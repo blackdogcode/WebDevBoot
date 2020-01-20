@@ -46,7 +46,7 @@
   
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks" target="_blank">Creating hyperlinks</a>
     <ul>
-      <li><a hef="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">How the web works</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">How the web works</a></li>
     </ul>
  
 ![Download Hyper Link](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/HTML/download_hyperlink.png)
