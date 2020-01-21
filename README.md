@@ -15,6 +15,7 @@
 ![HTML Element Anatomoy](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/HTML/html_element_anatomy.png)
 
 <ol>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Getting started with HTML</a>
     <ul>
       <li><a href="https://html.spec.whatwg.org/multipage/indices.html#element-content-categories">Element content categories</a></li>
