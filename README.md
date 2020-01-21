@@ -61,7 +61,7 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">&ltq&gt: The Inline Quotation element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite">&ltcite&gt: The Citation element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr">&ltabbr&gt: The Abbreviation element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address"&ltaddress&gt: The Contact Address element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">&ltaddress&gt: The Contact Address element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup">&ltsup&gt: The Superscript element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">&ltsub&gt: The Subscript element</a></li>
       </ul>
