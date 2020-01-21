@@ -58,6 +58,7 @@
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">&ltblockquote&gt: The Block Quotation element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">&ltq&gt: The Inline Quotation element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite">&gtcite$&lt: The Citation element</a></li>
       </ul>
   </li>
 </ol>
