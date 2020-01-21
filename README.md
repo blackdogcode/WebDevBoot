@@ -64,6 +64,7 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">&ltaddress&gt: The Contact Address element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup">&ltsup&gt: The Superscript element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">&ltsub&gt: The Subscript element</a></li>
+        <LI><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">&gttime&lt</a></li>
       </ul>
   </li>
 </ol>
