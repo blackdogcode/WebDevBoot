@@ -56,7 +56,7 @@
   
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting" target="_blank">Advanced text formatting</a>
       <ul>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">&gtblockquote&lt: The Block Quotation element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">&ltblockquote&gt: The Block Quotation element</a></li>
       </ul>
   </li>
 </ol>
