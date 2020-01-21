@@ -60,12 +60,10 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">&ltblockquote&gt: The Block Quotation element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">&ltq&gt: The Inline Quotation element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite">&ltcite&gt: The Citation element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr">&ltabbr&gt: The Abbreviation element</a></li>
       </ul>
   </li>
 </ol>
-  
-[Test your skills: HTML text basics 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)\
-[Test your skills: Link 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
 
 ## 3. [Learn to style HTML usi(ng CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)\
