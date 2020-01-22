@@ -74,13 +74,13 @@
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form">&lt;form&gt;</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">&lt;input&gt;: The Input (Form Input) element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main">&gt;main&lt;</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article">&gt;article&lt;: The Article Contents element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section">&gt;section&lt;: The Generic Section element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main">&lt;main&gt;</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article">&lt;article&gt;: The Article Contents element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section">&lt;section&gt;: The Generic Section element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside">&lt;aside&gt;: The Aside element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header">&lt;header&gt;</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer">&gt;footer&lt;</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav">&gt;nav&lt;: The Navigation Section element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer">&lt;footer&gt;</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav">&lt;nav&gt;: The Navigation Section element</a></li>
       </ul>
   </li>
   
