@@ -100,7 +100,15 @@
 </ol>
 
 ## 3. [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
-[What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)\
+  <ol>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"></a></li>
+  </ol>
+### 3-1. [CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+### 3-2. [CSS building blocks](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
+### 3-3. [Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
+### 3-4. [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+
+
 [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)\
 [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)\
 [CSS - Pseudoclass](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
