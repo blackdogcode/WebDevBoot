@@ -1,8 +1,9 @@
 ## Web Dev Tools
   <ol>
+    <li><a href="https://validator.w3.org/">W3C Markup Validation Service</a></li>
     <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools for Web Developers</a>
       <ul>
-        <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools Keyboard Shortcuts</a><li>
+        <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools Keyboard Shortcuts</a></li>
       </ul>
     </li>
   </ol>
