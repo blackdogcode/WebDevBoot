@@ -1,5 +1,4 @@
 ## Web Dev Tools
-  
   <ol>
     <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools for Web Developers</a>
       <ul>
