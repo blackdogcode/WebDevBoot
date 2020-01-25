@@ -88,6 +88,9 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML">Debugging HTML</a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML">Discover browser developer tools</a></li>
+      <li><a href="https://developers.google.com/web/tools/chrome-devtools/shortcuts">Chrome DevTools Keyboard Shortcuts</a></li>
+      <li><a href="https://developers.google.com/web/tools/chrome-devtools/inspect-styles?utm_campaign=2016q3&utm_medium=redirect&utm_source=dcc&hl=en">Inspect and Edit Pages and Styles</a></li>
+      <li><a href="https://developers.google.com/web/tools/chrome-devtools/javascript/?">Debugging JavaScript in Chrome DevToolshl=en</a></li>
     </ul>
   </li>
   
