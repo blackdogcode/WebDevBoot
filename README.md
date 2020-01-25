@@ -102,7 +102,12 @@
 ## [3. Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
   <ol>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
+      <ul>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector">Selector (CSS)</a></li>
+      </ul>
+    </li>
+  
   </ol>
   
 ### [3-1. CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
