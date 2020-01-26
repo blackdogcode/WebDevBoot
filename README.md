@@ -183,18 +183,18 @@
 [CSS - Button Generator](https://www.bestcssbuttongenerator.com/)
 
 ## 4. JavaScript — Dynamic client-side scripting]
-###[4.1 JavaScript first steps overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+### [4.1 JavaScript first steps overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">What is JavaScript?</a></li>
 </ul>
 
-###[4.2 JavaScript building blocks]
+### [4.2 JavaScript building blocks]
 
-###[4.3 Introducing JavaScript objects]
+### [4.3 Introducing JavaScript objects]
 
-###[4.4 Asynchronous JavaScript]
+### [4.4 Asynchronous JavaScript]
 
-###[4.5 Client-side web APIs]
+### [4.5 Client-side web APIs]
 
 ## 4. Bootstrap Front-End Framework
 [Boot Strap Home](https://getbootstrap.com/)\
