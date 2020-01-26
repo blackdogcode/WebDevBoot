@@ -155,7 +155,7 @@
     </li>
   </ol>
 
-### 3-2. CSS building blocks(https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
+### [3-2. CSS building blocks](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
 
 ### 3-3. CSS — Styling the Web
 
