@@ -119,7 +119,7 @@
 </ol>
 
 ## 3. Learn to style HTML using CSS
-### 3-1. CSS first steps(https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+### [3-1. CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
   <ol>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
       <ul>
