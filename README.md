@@ -7,6 +7,12 @@
       </ul>
     </li>
   </ol>
+
+## Reference
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a></li>
+  </ul>
   
 ## 0. Articles
 [What is REST?](https://www.codecademy.com/articles/what-is-rest), [What is CRUD?](https://www.codecademy.com/articles/what-is-crud)\
@@ -25,7 +31,6 @@
 ![HTML Element Anatomoy](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/HTML/html_element_anatomy.png)
 
 <ol>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Getting started with HTML</a>
     <ul>
       <li><a href="https://html.spec.whatwg.org/multipage/indices.html#element-content-categories">Element content categories</a></li>
@@ -115,6 +120,8 @@
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector">Selector (CSS)</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">&lt;color&gt;</a></li>
+        <li><a href="https://colorhunt.co/">Color Hunts</a></li>
       </ul>
     </li>
   
