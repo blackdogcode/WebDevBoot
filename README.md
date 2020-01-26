@@ -121,7 +121,6 @@
 ## [3. Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
   <ol>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works">How CSS works</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors">Selector (CSS)</a></li>
@@ -141,6 +140,8 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule">'@'At-rules</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries">Media queries</a></li>
       </ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works">How CSS works</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge">Using your new knowledge</a></li>
   </ol>
   
 ### [3-1. CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
