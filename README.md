@@ -182,10 +182,19 @@
 [CSS - float](https://developer.mozilla.org/en-US/docs/Web/CSS/float), [CSS - clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)\
 [CSS - Button Generator](https://www.bestcssbuttongenerator.com/)
 
-## 4. JavaScript — Dynamic client-side scripting]
+## 4. JavaScript — Dynamic client-side scripting
 ### [4.1 JavaScript first steps overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">What is JavaScript?</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">What is JavaScript?</a>
+    <ul>
+      <li><a href="https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US">Document Object Model (DOM) APIs</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation">Geolocation APIs</a>
+        <ul>
+          <li><a href="https://www.google.com/maps">i.e. Google Maps</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 ### [4.2 JavaScript building blocks]
