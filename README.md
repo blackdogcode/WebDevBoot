@@ -24,11 +24,13 @@
 [What are IMAP and POP?](https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US)
 
 ## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-[MDN - Installing basic software](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)\
-[MDN - What will your website look like?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)\
-[MDN - How do you set up a local testing server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)\
-[MDN - Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)\
-[MDN - How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software">Installing basic software</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like">What will your website look like?</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server">How do you set up a local testing server?</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files">Dealing with files</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">How the Web works</a></li>
+</ul>
 
 ## 2. [HTML — Structuring the Web](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
