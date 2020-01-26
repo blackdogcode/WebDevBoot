@@ -132,9 +132,10 @@
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started">Getting started with CSS</a></li>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">&lt;link&gt;: The External Resource Link element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type">list-style-type</a></li>
       </ul>
     </li>
-  
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured">How CSS is structured</a></li>
   </ol>
   
 ### [3-1. CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
