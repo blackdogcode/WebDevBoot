@@ -48,7 +48,7 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">What’s in the head? Metadata in HTML</a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools">developer tools</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">HTML <meta> element</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">HTML &lt;meta&gt; element</a></li>
       <li><a href="https://www.fileformat.info/info/charset/UTF-8/list.htm">Character List for UTF-8</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/SEO">SEO (Search Engine Optimization)</a></li>
       <li><a href="https://search.google.com/search-console/welcome?hl=en&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home">Google's webmaster tools</a></li>
@@ -78,12 +78,12 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting" target="_blank">Advanced text formatting</a>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">&ltblockquote&gt: The Block Quotation element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">&ltq&gt: The Inline Quotation element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite">&ltcite&gt: The Citation element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr">&ltabbr&gt: The Abbreviation element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">&ltaddress&gt: The Contact Address element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup">&ltsup&gt: The Superscript element</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">&ltsub&gt: The Subscript element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">&lt;q&gt;: The Inline Quotation element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite">&lt;cite&gt;: The Citation element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr">&lt;abbr&gt;: The Abbreviation element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">&lt;address&gt;: The Contact Address element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup">&lt;sup&gt;: The Superscript element</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">&lt;sub&gt;: The Subscript element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">&lt;time&gt;</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text">Test your skills: Advanced HTML text</a></li>
       </ul>
@@ -130,6 +130,9 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders">CSS Backgrounds and Borders</a></li>
       </ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started">Getting started with CSS</a></li>
+      <ul>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">&lt;link&gt;: The External Resource Link element</a></li>
+      </ul>
     </li>
   
   </ol>
