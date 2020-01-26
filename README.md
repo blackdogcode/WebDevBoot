@@ -197,7 +197,7 @@
 ### [4.5 Client-side web APIs]
 
 ## 4. Bootstrap Front-End Framework
-[Boot Strap Home](https://getbootstrap.com/)\
+[Boot Strap Home](https://getbootstrap.com/)
 
 
 ## 6. Tips
