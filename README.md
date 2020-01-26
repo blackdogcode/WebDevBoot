@@ -118,7 +118,7 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content">Assessment: Structuring a page of content</a></li>
 </ol>
 
-## [3. Learn to style HTML using CSS]
+## 3. Learn to style HTML using CSS
 ### [3-1. CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
   <ol>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
