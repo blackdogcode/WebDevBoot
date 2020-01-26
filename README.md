@@ -136,6 +136,10 @@
       </ul>
     </li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured">How CSS is structured</a></li>
+      <ul>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance">Cascade and inheritance</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule">'@'At-rules</a></li>
+      </ul>
   </ol>
   
 ### [3-1. CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
