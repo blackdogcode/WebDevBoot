@@ -148,6 +148,9 @@
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color">color</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight">font-weight</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration">text-decoration</a></li>
       </ul>
     </li>
   </ol>
