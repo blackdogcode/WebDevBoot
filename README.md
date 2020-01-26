@@ -177,26 +177,20 @@
 [CSS - float](https://developer.mozilla.org/en-US/docs/Web/CSS/float), [CSS - clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)\
 [CSS - Button Generator](https://www.bestcssbuttongenerator.com/)
 
-### CSS Reference
-[Loream Ipsum.io](https://loremipsum.io/), [Flat Icon.io](https://www.flaticon.com/), [Giphy gif Images](https://giphy.com/)
+## 4. JavaScript — Dynamic client-side scripting]
+###[4.1 JavaScript first steps overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+
+###[4.2 JavaScript building blocks]
+
+###[4.3 Introducing JavaScript objects]
+
+###[4.4 Asynchronous JavaScript]
+
+###[4.5 Client-side web APIs]
 
 ## 4. Bootstrap Front-End Framework
 [Boot Strap Home](https://getbootstrap.com/)\
 
-
-## 5. [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
-[What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-<ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">Document Object Model (DOM)</a>
-    <ul>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">Introduction to the DOM</a></li>
-    </ul>
-  </li>  
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation">Geolocation</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL: 2D and 3D graphics for the web</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery">Audio and Video Delivery</a></li>  
-</ul>
 
 ## 6. Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
