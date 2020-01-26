@@ -179,6 +179,9 @@
 
 ## 4. JavaScript — Dynamic client-side scripting]
 ###[4.1 JavaScript first steps overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">What is JavaScript?</a></li>
+</ul>
 
 ###[4.2 JavaScript building blocks]
 
