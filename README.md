@@ -144,7 +144,12 @@
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/DOM">DOM (Document Object Model)</a></li>
       </ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge">Using your new knowledge</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge">Using your new knowledge</a>
+      <ul>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color">color</a></li>
+      </ul>
+    </li>
   </ol>
   
 ### [3-1. CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
