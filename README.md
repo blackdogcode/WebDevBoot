@@ -121,6 +121,7 @@
 ## [3. Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
   <ol>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works">How CSS works</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector">Selector (CSS)</a></li>
@@ -128,6 +129,7 @@
         <li><a href="https://colorhunt.co/">Color Hunts</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders">CSS Backgrounds and Borders</a></li>
       </ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started">Getting started with CSS</a></li>
     </li>
   
   </ol>
