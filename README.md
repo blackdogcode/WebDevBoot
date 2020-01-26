@@ -11,7 +11,11 @@
 ## Reference
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a>
+      <ul>
+        <li><a href"https://www.w3.org/Style/CSS/">W3C CSS Working Group</a></li>
+      </ul>
+    </li>
   </ul>
   
 ## 0. Articles
@@ -122,6 +126,7 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector">Selector (CSS)</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">&lt;color&gt;</a></li>
         <li><a href="https://colorhunt.co/">Color Hunts</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders">CSS Backgrounds and Borders</a></li>
       </ul>
     </li>
   
