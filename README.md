@@ -190,6 +190,7 @@
         <ul>
           <li><a href="https://www.google.com/maps">i.e. Google Maps</a></li>
         </ul>
+      </li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL: 2D and 3D graphics for the web</a>
         <ul>
@@ -197,6 +198,11 @@
           <li><a href="http://webglsamples.org/">i.e. webglsamples</a></li>
         </ul>
       </li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery">Audio and Video APIs</a></li>
+        <ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement">HTMLMediaElement</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API">WebRTC</a></li>
+        </ul>
       </li>
     </ul>
   </li>
