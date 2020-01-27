@@ -16,7 +16,7 @@
         <li><a href="https://www.w3.org/Style/CSS/">W3C CSS Working Group</a></li>
       </ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing">Cross browser testing</a></li>
-    </li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website">Publishing your website</a></li>
   </ul>
   
 ## 0. Articles
