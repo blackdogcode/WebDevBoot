@@ -126,6 +126,9 @@
 
 ## 3. Learn to style HTML using CSS
 ### [3-1. CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+
+![CSS External Link](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/CSS-External-Link.png)
+
   <ol>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
       <ul>
