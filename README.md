@@ -178,7 +178,7 @@
 
 ![Java External Link](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/JavaScript/JavaScript_External_Link.png)
 
-<ul>
+<ol>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">What is JavaScript?</a>
     <ul>
       <li><a href="https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US">Document Object Model (DOM) APIs</a></li>
@@ -208,7 +208,7 @@
     <ul>
     </ul>
   </li>
-</ul>
+</ol>
 
 ### [4.2 JavaScript building blocks]
 
