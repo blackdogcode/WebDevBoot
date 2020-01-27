@@ -127,6 +127,7 @@
 ## 3. Learn to style HTML using CSS
 ### [3-1. CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
+![CSS Loading Process](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/css-load-process.png)
 ![CSS External Link](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/CSS-External-Link.png)
 
   <ol>
@@ -202,6 +203,9 @@
       <li><a href="https://dev.twitter.com/overview/documentation">Twitter API</a></li>
       <li><a href="https://developers.google.com/maps/">Google Maps API</a></li>
       <li><a href="https://wiki.openstreetmap.org/wiki/API">OpenStreetMap API</a></li>
+    </ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash">A first splash into JavaScript</a></li>
+    <ul>
     </ul>
   </li>
 </ul>
