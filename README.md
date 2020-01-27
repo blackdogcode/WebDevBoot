@@ -125,9 +125,9 @@
 </ol>
 
 ## 3. Learn to style HTML using CSS
+![CSS Loading Process](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/css-load-process.png)
 ### [3-1. CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
-![CSS Loading Process](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/css-load-process.png)
 ![CSS External Link](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/CSS-External-Link.png)
 
   <ol>
