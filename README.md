@@ -173,6 +173,10 @@
   </ol>
 
 ### [3-2. CSS building blocks](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+    ">The box model</a></li>
+</ul>
 
 ### 3-3. CSS — Styling the Web
 <ul>
