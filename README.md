@@ -132,14 +132,15 @@
 
 ## 3. Learn to style HTML using CSS
 ![CSS Loading Process](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/css-load-process.png)
-### [3-1. CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
+### [3-1. CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 ![CSS External Link](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/CSS-External-Link.png)
 
   <ol>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">What is CSS?</a>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors">Selector (CSS)</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors">Universal selectors</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">&lt;color&gt;</a></li>
         <li><a href="https://colorhunt.co/">Color Hunts</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders">CSS Backgrounds and Borders</a></li>
@@ -175,7 +176,12 @@
 
 ### 3-3. CSS — Styling the Web
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/At-rulehttps://developer.mozilla.org/en-US/docs/Web/CSS/At-rule">At-rules</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/At-rulehttps://developer.mozilla.org/en-US/docs/Web/CSS/At-rule">At-rules</a>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@mediahttps://developer.mozilla.org/en-US/docs/Web/CSS/@media">@media</a></li>
+    </ul>
+  </li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">Specificity</a></li>
 </ul>
   
 ### 3-4. Styling text
