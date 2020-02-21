@@ -1,7 +1,7 @@
 ## Articles
 <ul>
-  <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA(Rich Internet Application)?</a></li>
-  <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST(REPRESENTATIONAL STATE TRANSFER)?</a>
+  <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA?</a></li>
+  <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a>
     <ul>
       <li>RESTful systems == REST-compliant systems</li>
       <li>In the REST architectural style, the implementation of the client and tof the server can be done <strong>independently.</strong></li>
