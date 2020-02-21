@@ -4,7 +4,8 @@
   <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST(REPRESENTATIONAL STATE TRANSFER)?</a>
     <ul>
       <li>RESTful systems == REST-compliant systems</li>
-      <li>In the REST architectural style, the implementation of the client and tof the server can be done <strong>independently</strong></li>
+      <li>In the REST architectural style, the implementation of the client and tof the server can be done <strong>independently.</strong></li>
+      <li>As long as each side knows what format of messages to send to the other, they can be kept modular and separate.</li>
     </ul>
   </li>
   <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD?</a></li>
