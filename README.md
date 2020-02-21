@@ -2,7 +2,9 @@
 <ul>
   <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA(Rich Internet Application)?</a></li>
   <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a>
-  RESTful systems == REST-compliant systems
+    <ul>
+      <li>RESTful systems == REST-compliant systems</li>
+    </ul>
   </li>
   <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD?</a></li>
   <li><a href="https://www.onelogin.com/learn/how-single-sign-on-works">How does single sign-on work?</a></li>
