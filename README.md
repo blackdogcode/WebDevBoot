@@ -6,6 +6,7 @@
       <li>RESTful systems == REST-compliant systems</li>
       <li>In the REST architectural style, the implementation of the client and tof the server can be done <strong>independently.</strong></li>
       <li>Each side knows what format of messages to send to the other, they can be kept modular and seperate.</li>
+      <li><strong>Statelessness:</strong> Server and Client doest not need to know their states in REST Architecture</li>
     </ul>
   </li>
   <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD?</a></li>
