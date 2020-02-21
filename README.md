@@ -1,7 +1,9 @@
 ## Articles
 <ul>
   <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA(Rich Internet Application)?</a></li>
-  <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a></li>
+  <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a>
+  RESTful systems == REST-compliant systems
+  </li>
   <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD?</a></li>
   <li><a href="https://www.onelogin.com/learn/how-single-sign-on-works">How does single sign-on work?</a></li>
   <li><a href="https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US">What are IMAP and POP?</a></li>  
