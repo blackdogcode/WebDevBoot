@@ -240,6 +240,8 @@
       <li><a href="https://wiki.openstreetmap.org/wiki/API">OpenStreetMap API</a></li>
     </ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash">A first splash into JavaScript</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types">Grammar and types</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">Data types and data structures</a></li>
 </ol>
 
 ### [4.2 JavaScript building blocks]
