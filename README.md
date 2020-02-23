@@ -25,21 +25,22 @@
   </ol>
 
 ## Reference
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a>
-      <ul>
-        <li><a href="https://www.w3.org/Style/CSS/">W3C CSS Working Group</a></li>
-      </ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing">Cross browser testing</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website">Publishing your website</a>
-      <ul>
-        <li><a href="https://pages.github.com/">GitHub Pages</a></li>
-        <li><a href="https://cloud.google.com/appengine/">Google App Engine</a></li>
-      </ul>
-    </li>
-    <li><a href="https://devdocs.io/">devdocs.io</a></li>
-  </ul>
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a>
+    <ul>
+      <li><a href="https://www.w3.org/Style/CSS/">W3C CSS Working Group</a></li>
+    </ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing">Cross browser testing</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website">Publishing your website</a>
+    <ul>
+      <li><a href="https://pages.github.com/">GitHub Pages</a></li>
+      <li><a href="https://cloud.google.com/appengine/">Google App Engine</a></li>
+    </ul>
+  </li>
+  <li><a href="https://devdocs.io/">devdocs.io</a></li>
+  <li><a href="https://www.w3schools.com/js/js_es6.asp">What is ECMAScript 6(==JavaScript 6)</a></li>
+</ul>
 
 ## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 <ul>
