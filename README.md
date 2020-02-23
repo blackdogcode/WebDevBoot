@@ -186,7 +186,7 @@
     ">The box model</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/position">CSS Position Property</a>
     <ul>
-      <li>static, absolute, relative, sticky</li>
+      <li>static(default), absolute, relative, sticky</li>
     </ul>
   </li>
 </ul>
