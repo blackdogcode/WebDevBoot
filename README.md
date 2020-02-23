@@ -260,7 +260,10 @@
 
 ### 4.3. JavaScript Function
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof">typeof: check data type</a></li>
+  </li>
 </ul>
 
 ## 4. Bootstrap Front-End Framework
