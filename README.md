@@ -245,10 +245,14 @@
   
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types">Grammar and types</a></li>
   
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">Data types and data structures</a></li>
 </ol>
 
-### 4.2. JavaScript Function
+### [4.2. Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String">String Object and Built-in Functions</a></li>
+</ul>
+
+### 4.3. JavaScript Function
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a></li>
 </ul>
