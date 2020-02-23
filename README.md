@@ -242,17 +242,16 @@
       <li><a href="https://wiki.openstreetmap.org/wiki/API">OpenStreetMap API</a></li>
     </ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash">A first splash into JavaScript</a></li>
+  
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types">Grammar and types</a></li>
+  
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">Data types and data structures</a></li>
 </ol>
 
-### [4.2 JavaScript building blocks]
-
-### [4.3 Introducing JavaScript objects]
-
-### [4.4 Asynchronous JavaScript]
-
-### [4.5 Client-side web APIs]
+### 4.2. Java Script Function
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a></li>
+</ul>
 
 ## 4. Bootstrap Front-End Framework
 [Boot Strap Home](https://getbootstrap.com/)
