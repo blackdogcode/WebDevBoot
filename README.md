@@ -248,7 +248,7 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">Data types and data structures</a></li>
 </ol>
 
-### 4.2. Java Script Function
+### 4.2. JavaScript Function
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a></li>
 </ul>
