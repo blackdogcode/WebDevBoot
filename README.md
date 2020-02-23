@@ -186,7 +186,10 @@
     ">The box model</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/position">CSS Position Property</a>
     <ul>
-      <li>static(default), absolute, relative, sticky</li>
+      <li>static(default flow)</li>
+      <li>absolute: add a margin to its parent elemt i.e. div, p</li>
+      <li>relative: add a margin relative to whree the element should be(static position)</li>
+      <li>sticky</li>
     </ul>
   </li>
 </ul>
