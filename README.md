@@ -249,7 +249,7 @@
 
 ### [4.2. Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 <ul>
-  <li><a href="">Standard built-in objects</a>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects">Standard built-in objects</a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String">String Object and Built-in Functions</a></li>
     </ul>
