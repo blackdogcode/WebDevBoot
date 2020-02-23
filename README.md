@@ -240,9 +240,6 @@
       <li><a href="https://wiki.openstreetmap.org/wiki/API">OpenStreetMap API</a></li>
     </ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash">A first splash into JavaScript</a></li>
-    <ul>
-    </ul>
-  </li>
 </ol>
 
 ### [4.2 JavaScript building blocks]
