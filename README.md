@@ -63,7 +63,7 @@
       <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes">Types_of_CSS_boxes</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements">Block Level Elemnt</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements">Inline Element</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Entity_references_Including_special_characters_in_HTML">use HTML entities</a></li>
+      <li><a href="https://www.w3schools.com/html/html_entities.asp">HTML entities</a></li>
     </ul>
   </li>
   
