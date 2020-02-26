@@ -304,6 +304,7 @@
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName">Document.getElementsByClassName()</a></li>
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById">Document.getElementById()</a></li>
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector">Document.querySelector()</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll">Document.querySelectorAll()</a></li>
         </ul>
       </li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element">Element Properties and APIs</a></li>
