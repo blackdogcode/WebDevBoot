@@ -263,6 +263,7 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof">typeof: check data type</a></li>
+    </ul>
   </li>
 </ul>
 
