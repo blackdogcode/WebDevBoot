@@ -1,0 +1,1 @@
+alert("Hello Dice Game");
