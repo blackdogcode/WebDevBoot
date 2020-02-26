@@ -9,7 +9,7 @@
       <li><strong>Statelessness:</strong> Server and Client doest not need to know their states in REST Architecture</li>
     </ul>
   </li>
-  <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD?</a></li>
+  <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD(Create, Read, Update, Delete)?</a></li>
   <li><a href="https://www.onelogin.com/learn/how-single-sign-on-works">How does single sign-on work?</a></li>
   <li><a href="https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US">What are IMAP and POP?</a></li>  
 </ul>
