@@ -258,11 +258,12 @@
   </li>
 </ul>
 
-### 4.3. JavaScript Function
+### 4.3. JavaScript Function - functions are themselves objects
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof">typeof: check data type</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function">Function expression</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling">Control Flow and Error Handling</a>
         <ul>
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">Equality comparisons and sameness</a></li>
@@ -279,6 +280,12 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">DOM APIs</a></li>
 </ul>
 
+### 4.5 Collections
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections">Indexed collections</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections">Keyed collections</a></li>
+</ul>
+  
 ### [4.5 JQuery](https://jquery.com/)
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery">What is Jquery?(MDN)</a></li>
