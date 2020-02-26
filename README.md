@@ -309,6 +309,7 @@
 ## 6. Tips
 [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
 
+
 ## Others
 [Web Archive](http://web.archive.org/)
 [Submarin Cable Map](https://www.submarinecablemap.com/)
