@@ -207,6 +207,9 @@
 </ul>
   
 ### 3-4. Styling text
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">CSS values and units(i.e. rem, em, px)</a></li>
+</ul>
 
 ### 3-5. CSS layout
 
