@@ -296,7 +296,12 @@
 ### [5.5 DOM(Document Object Model)](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
 <ul>
   <li><a href="https://dom.spec.whatwg.org/">DOM Living Standard</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">DOM APIs</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">DOM APIs</a>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document">Document Properties and APIs</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element">Element Properties and APIs</a></li>
+    </ul>
+  </li>
   <li>Object Event Handler</li>
 </ul>
 
