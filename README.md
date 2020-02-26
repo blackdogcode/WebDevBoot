@@ -258,9 +258,9 @@
   </li>
 </ul>
 
-### 4.3. JavaScript Function - functions are themselves objects
+### 4.3. JavaScript Function
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function - functions are themselves objects</strong></a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof">typeof: check data type</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function">Function expression</a></li>
