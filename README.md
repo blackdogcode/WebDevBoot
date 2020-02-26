@@ -210,8 +210,13 @@
 
 ### 3-5. CSS layout
 
-## 4. JavaScript — Dynamic client-side scripting
-### [4.1 JavaScript first steps overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+
+## 4. Bootstrap Front-End Framework
+[Boot Strap Home](https://getbootstrap.com/)
+
+
+## 5. JavaScript — Dynamic client-side scripting
+### [5.1 JavaScript first steps overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
 ![Java External Link](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/JavaScript/JavaScript_External_Link.png)
 
@@ -247,7 +252,7 @@
   
 </ol>
 
-### [4.2. Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+### [5.2. Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects">Standard built-in objects</a>
     <ul>
@@ -258,7 +263,7 @@
   </li>
 </ul>
 
-### 4.3. JavaScript Function
+### 5.3. JavaScript Function
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function - functions are themselves objects</strong></a>
     <ul>
@@ -282,25 +287,23 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Empty">Empty Statment(;)</a></li>
 </ul>
 
-### [4.4 DOM(Document Object Model)](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
-<ul>
-  <li><a href="https://dom.spec.whatwg.org/">DOM Living Standard</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">DOM APIs</a></li>
-</ul>
-
-### 4.5 Collections
+### 5.4 Collections
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections">Indexed collections</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections">Keyed collections</a></li>
 </ul>
-  
-### [4.5 JQuery](https://jquery.com/)
+
+### [5.5 DOM(Document Object Model)](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
+<ul>
+  <li><a href="https://dom.spec.whatwg.org/">DOM Living Standard</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">DOM APIs</a></li>
+  <li>Object Event Handler</li>
+</ul>
+
+### [5.6 JQuery](https://jquery.com/)
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery">What is Jquery?(MDN)</a></li>
 </ul>
-
-## 5. Bootstrap Front-End Framework
-[Boot Strap Home](https://getbootstrap.com/)
 
 
 ## 6. Tips
