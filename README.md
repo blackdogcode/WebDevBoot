@@ -298,7 +298,14 @@
   <li><a href="https://dom.spec.whatwg.org/">DOM Living Standard</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">DOM APIs</a>
     <ul>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document">Document Properties and APIs</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document">Document Properties and APIs</a>
+        <ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName">Document.getElementsByTagName()</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName">Document.getElementsByClassName()</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById">Document.getElementById()</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector">Document.querySelector()</a></li>
+        </ul>
+      </li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element">Element Properties and APIs</a></li>
     </ul>
   </li>
