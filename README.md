@@ -319,6 +319,7 @@
 ### [5.6 JQuery](https://jquery.com/)
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery">What is Jquery?(MDN)</a></li>
+  <li><a href="https://api.jquery.com/">Jquery APIs(MDN)</a></li>
 </ul>
 
 
