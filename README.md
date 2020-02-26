@@ -263,8 +263,15 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"><strong>Function</strong></a>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof">typeof: check data type</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling">Control Flow and Error Handling</a>
+        <ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">Equality comparisons and sameness</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else">if-else</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Empty">Empty Statment(;)</a></li>
 </ul>
 
 ### [4.4 DOM(Document Object Model)](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
