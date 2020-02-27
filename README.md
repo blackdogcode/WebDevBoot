@@ -16,14 +16,18 @@
 </ul>
 
 ## Web Dev Tools
-  <ol>
-    <li><a href="https://validator.w3.org/">W3C Markup Validation Service</a></li>
-    <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools for Web Developers</a>
-      <ul>
-        <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools Keyboard Shortcuts</a></li>
-      </ul>
-    </li>
-  </ol>
+<ol>
+  <li><a href="https://validator.w3.org/">W3C Markup Validation Service</a></li>
+  <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools for Web Developers</a>
+    <ul>
+      <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools Keyboard Shortcuts</a></li>
+    </ul>
+  </li>
+  <li><a href="https://atom.io/">Atom Editor</a>
+    <ul>
+      <li><a href="https://github.com/nwinkler/atom-keyboard-shortcuts">Atom Keyboard Shortcuts</a></li>
+  </li>
+</ol>
 
 ## Reference
 <ul>
