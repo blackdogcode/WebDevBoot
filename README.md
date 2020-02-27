@@ -157,6 +157,13 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders">CSS Backgrounds and Borders</a></li>
       </ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started">Getting started with CSS</a></li>
+    <li><a href="https://www.w3schools.com/css/css_howto.asp">CSS Types(inline, internal, external(.css)</a>
+      <ul>
+        <li>inline css - not recommended</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style">internal css</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">external css(.css file) - recommended</a></li>
+      </ul>
+    </li>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">&lt;link&gt;: The External Resource Link element</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type">list-style-type</a></li>
@@ -320,7 +327,7 @@
 ### [5.6 JQuery](https://jquery.com/)
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery">What is Jquery?(MDN)</a></li>
-  <li><a href="https://api.jquery.com/">Jquery APIs(MDN)</a></li>
+  <li><a href="https://api.jquery.com/">Jquery APIs</a></li>
 </ul>
 
 
