@@ -152,7 +152,7 @@
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors">Selector (CSS)</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors">Universal selectors</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">&lt;color&gt;</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">&lt;color&gt; - named color list</a></li>
         <li><a href="https://colorhunt.co/">Color Hunts</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders">CSS Backgrounds and Borders</a></li>
       </ul>
