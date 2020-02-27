@@ -326,6 +326,7 @@
     </ul>
   </li>
   <li>Object Event Handler</li>
+  <li><a href="https://www.w3schools.com/jsref/dom_obj_style.asp">DOM Style Javascript property names</a></li>
 </ul>
 
 ### [5.6 JQuery](https://jquery.com/)
