@@ -15,6 +15,7 @@
   <li><a href="https://www.cloudflare.com/learning/cdn/what-is-a-cdn/">What is CDN(Content Delivery Network)?</a></li>
 </ul>
 
+
 ## Web Dev Tools
 <ol>
   <li><a href="https://validator.w3.org/">W3C Markup Validation Service</a></li>
@@ -29,7 +30,8 @@
   </li>
 </ol>
 
-## Reference
+
+## References
 <ul>
   <li><a href="https://google.github.io/styleguide/jsguide.html">Google JavaScript Style Guide</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
@@ -48,6 +50,7 @@
   <li><a href="https://www.w3schools.com/js/js_es6.asp">What is ECMAScript 6(==JavaScript 6)</a></li>
 </ul>
 
+
 ## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software">Installing basic software</a></li>
@@ -56,6 +59,7 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files">Dealing with files</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">How the Web works</a></li>
 </ul>
+
 
 ## 2. [HTML — Structuring the Web](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
@@ -144,6 +148,7 @@
   
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content">Assessment: Structuring a page of content</a></li>
 </ol>
+
 
 ## 3. Learn to style HTML using CSS
 ![CSS Loading Process](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/css-load-process.png)
