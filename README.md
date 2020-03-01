@@ -305,14 +305,6 @@
     </ul>
   </li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Empty">Empty Statment(;)</a></li>
-  
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventListener">EventListener</a>
-    <ul><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget">EventTarget</a>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">EventTarget.addEventListener()</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener">EventTarget.removeEventListener()</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/dispatchEvent">EventTarget.dispatchEvent()</a></li>
-    </ul>
-  </li>
 </ul>
 
 ### 5.4 Collections
@@ -340,6 +332,14 @@
   </li>
   <li>Object Event Handler</li>
   <li><a href="https://www.w3schools.com/jsref/dom_obj_style.asp">DOM Style Javascript property names</a></li>
+  
+   <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventListener">EventListener</a>
+    <ul><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget">EventTarget</a>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">EventTarget.addEventListener()</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener">EventTarget.removeEventListener()</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/dispatchEvent">EventTarget.dispatchEvent()</a></li>
+    </ul>
+  </li>
 </ul>
 
 ### [5.6 JQuery](https://jquery.com/)
