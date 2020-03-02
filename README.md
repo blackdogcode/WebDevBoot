@@ -151,7 +151,12 @@
 
 ## 2.1 Multimedia
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed">&gt;embed&lt;</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed">&lt;embed&gt;</a></li>
+</ul>
+
+## 2.2 HTML Q/A
+<ul>
+  <li><a href="https://stackoverflow.com/questions/17784037/how-to-display-pdf-file-in-html"How to display pdf file in HTML</a></li>
 </ul>
 
 
