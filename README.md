@@ -149,6 +149,11 @@
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content">Assessment: Structuring a page of content</a></li>
 </ol>
 
+## 2.1 Multimedia
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed">&gt;embed&lt;</a></li>
+</ul>
+
 
 ## 3. Learn to style HTML using CSS
 ![CSS Loading Process](https://github.com/Blackdog-Programmer/WebDevelopment/blob/master/reference/CSS/css-load-process.png)
