@@ -391,6 +391,10 @@
   </li>
 </ul>
 
+### [5.7 JSON Object](https://www.w3schools.com/js/js_json_objects.asp)
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse">JSON.parse()</a></li>
+</ul>
 
 ## 06. Node.js
 
