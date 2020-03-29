@@ -179,7 +179,7 @@
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started">Getting started with CSS</a></li>
     <li><a href="https://www.w3schools.com/css/css_howto.asp">CSS Types(inline, internal, external(.css)</a>
       <ul>
-        <li>inline css - not recommended</a></li>
+        <li>inline css - not recommended!</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style">internal css</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">external css(.css file) - recommended</a></li>
       </ul>
