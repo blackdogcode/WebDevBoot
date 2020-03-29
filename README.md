@@ -400,6 +400,9 @@
 <ul>
   <li><a href="https://nodejs.org/en/docs/">Node JS Documentation</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop">REPL(Read-Eval-Print-Loop)</a></li>
+  <li><a href="https://nodejs.org/api/modules.html#modules_the_module_object">Node Documentation on Exports & the Module Object</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object">MDN Docs on Javascript Objects</a></li>
+  <li><a href="https://www.katacoda.com/courses/nodejs/playground">Katacoda NodeJS Playground</a></li>
 </ul>
 
 ## 07. Express.js with Node.js
