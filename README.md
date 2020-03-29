@@ -431,6 +431,23 @@
 
 
 ## 15. Design Shcool 101
+<ul>
+  <li><a href="https://colorhunt.co/">Curated colour palettes on Color Hunt</a></li>
+  <li><a href="https://flatuicolors.com/">Popular iOS colours from Flat UI Colors</a></li>
+  <li><a href="https://www.materialpalette.com/">Popular Android colours from Material Palette</a></li>
+  <li><a href="http://www.colorzilla.com/">Nabbing your favourite colours with Color Zilla</a></li>
+  <li><a href="https://uxplanet.org/create-emotion-with-color-in-ux-design-446a3766b085#.833er7ned">Create Emotion with Color in UX Design</a></li>
+  <li><a href="https://www.appbrewery.co/p/web-development-course-resources/">26 Digital Typography Rules for Beginners</a></li>
+  <li><a href="https://medium.com/thinking-design/xd-essentials-typography-in-mobile-apps-7048abfb1cc5#.tu3y5hv6z">XD Essentials: Typography in Mobile Apps</a></li>
+  <li><a href="https://designschool.canva.com/blog/distinguished-typographers-share-their-favorite-fonts/">Need hints for good fonts? Here's 14 typographers with their favorite fonts</a></li>
+  <li><a href="https://www.fastcodesign.com/3028971/whats-the-difference-between-a-font-and-a-typeface">What’s The Difference Between A Font And A Typeface?</a></li>
+  <li><a href="https://jgthms.com/web-design-in-4-minutes/">Web Design in 4 Minutes</a></li>
+  <li><a href="https://dribbble.com/colors/ee6d66">Searching Dribbble by a Specific Colour</a></li>
+  <li><a href="http://platowebdesign.com/articles/translating-client-speak-infographic/">Translating Client Speak: What Clients Say and What they Mean</a></li>
+  <li><a href="https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b#.kfznrp77q">Golden Rules of User Interface Design</a></li>
+  <li><a href="https://byrslf.co/designing-user-interfaces-for-your-mother-dd45ec50f7b0#.j4bcs8rto">Designing User Interfaces for My Mother</a></li>
+  <li><a href="https://www.teehanlax.com/story/medium/">Teehanlax.com</a></li>
+</ul>
 
 
 ## Others
