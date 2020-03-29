@@ -406,28 +406,40 @@
   <li><a href="https://www.katacoda.com/courses/nodejs/playground">Katacoda NodeJS Playground</a></li>
 </ul>
 
+
 ## 07. Express.js with Node.js
+<ul>
+  <li><a href="https://expressjs.com/">Express Documentation</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_HTTP_status_codes">List of HTTP Status Codes</a></li>
+</ul>
 
 
 ## 08. APIs
 
 
+
 ## 09. EJS
+
 
 
 ## 10. MongoDB(NoSQL)
 
 
+
 ## 11. Monggose
+
 
 
 ## 12. RESTful API
 
 
+
 ## 13. Authentication & Security
 
 
+
 ## 14. React.js
+
 
 
 ## 15. Design Shcool 101
