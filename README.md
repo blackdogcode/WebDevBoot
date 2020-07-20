@@ -465,3 +465,9 @@
 ## Others
 [Web Archive](http://web.archive.org/)
 [Submarin Cable Map](https://www.submarinecablemap.com/)
+
+
+## Q/A
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/difference-between-var-and-let-in-javascript/">Difference between var and let in JavaScript</a></li>
+</ul>
