@@ -14,6 +14,7 @@
   <li><a href="https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US">What are IMAP and POP?</a></li>
   <li><a href="https://www.cloudflare.com/learning/cdn/what-is-a-cdn/">What is CDN(Content Delivery Network)?</a></li>
   <li><a href="https://d2.naver.com/helloworld/24942">Waht is OAuth?</a></li>
+  <li><a href="https://www.ibm.com/cloud/learn/web-server-vs-application-server">Web Server vs. Application Server</a></li>
 </ul>
 
 
