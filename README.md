@@ -1,5 +1,7 @@
-## Articles
+## References
 <ul>
+  <li><a href="https://www.geeksforgeeks.org/web-server-and-its-type/?ref=lbp">Web Server and Its Type</a></li>
+  
   <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA?</a></li>
   <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a>
     <ul>
