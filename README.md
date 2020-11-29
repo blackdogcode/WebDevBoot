@@ -1,6 +1,10 @@
 ## References
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/web-server-and-its-type/?ref=lbp">Web Server and Its Type</a></li>
+  <li><a href="https://www.geeksforgeeks.org/web-server-and-its-type/?ref=lbp">Web Server and Its Type</a>
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/?ref=lbp">Difference Between Web server and Application server</a></li>
+    </ul>
+  </li>
   
   <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA?</a></li>
   <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a>
