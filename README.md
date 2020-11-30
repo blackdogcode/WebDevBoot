@@ -3,7 +3,6 @@
   <li><a href="https://www.geeksforgeeks.org/web-server-and-its-type/?ref=lbp">Web Server and Its Type</a>
     <ul>
       <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/?ref=lbp">Difference Between Web server and Application server</a></li>
-      
       <li><a href="https://www.geeksforgeeks.org/difference-between-apache-tomcat-server-and-apache-web-server/?ref=lbp">Difference between Apache Tomcat server and Apache web server</a></li>
     </ul>
   </li>
