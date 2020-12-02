@@ -1,6 +1,6 @@
 ## References
 <ul>
-  <li><a href="https://www.tutorialspoint.com/internet_technologies/index.htm">Internet Technology Overview</a></li>
+  <li><a href="https://www.tutorialspoint.com/internet_technologies">Internet Technology Overview</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/web-server-and-its-type/?ref=lbp">Web Server and Its Type</a>
     <ul>
