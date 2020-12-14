@@ -8,7 +8,7 @@
   
   <li><a href="https://www.tutorialspoint.com/internet_technologies/e_mail_overview.htm">E-mail Overview</a>
     <ul>
-      <li><a href="https://www.tutorialspoint.com/internet_technologies/e_mail_protocols.htm">E-mail Protocols</a></li>
+      <li><a href="https://www.tutorialspoint.com/internet_technologies/e_mail_protocols.htm">E-mail Protocols(SMTP, IMAP, POP)</a></li>
     </ul>
   </li>
   
