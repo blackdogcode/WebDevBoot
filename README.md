@@ -26,21 +26,24 @@
   <li><a href="https://devdocs.io/">devdocs.io</a></li>
 </ul>
 
+
 ## Web Dev Tools
 <ul>
-  <li><a href="https://codepen.io/">CodePen - ad hoc front-end code snippet testing web envrionment</a></li>
+  <li><a href="https://codepen.io/">CodePen - ad hoc front-end code snippet testing web environment</a></li>
   
   <li><a href="https://validator.w3.org/">W3C Markup Validation Service</a></li>
+  
   <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools for Web Developers</a>
     <ul>
       <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools Keyboard Shortcuts</a></li>
     </ul>
   </li>
+  
   <li><a href="https://atom.io/">Atom Editor</a>
     <ul>
       <li><a href="https://github.com/nwinkler/atom-keyboard-shortcuts">Atom Keyboard Shortcuts</a></li>
   </li>
-</u;>
+</ul>
 
 
 ## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
