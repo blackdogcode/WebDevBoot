@@ -3,6 +3,7 @@
   <li><strong>HTML: HyperText Markup Language</strong>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN Web Docs - HTML</a></li>
+      <li><a href="https://www.w3schools.com/html/">w3schools - HTML</a></li>
     </ul>
   </li>
   
