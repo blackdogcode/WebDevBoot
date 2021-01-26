@@ -2,28 +2,29 @@
 <ul>
   <li><strong>HTML: HyperText Markup Language</strong>
     <ul>
+      <li><a href="https://google.github.io/styleguide/htmlcssguide.html">Google HTML Style Guide</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN Web Docs - HTML</a></li>
       <li><a href="https://www.w3schools.com/html/">w3schools - HTML</a></li>
       <li><a href="https://devdocs.io/html/">devdocs - HTML</a></li>
     </ul>
   </li>
   
-  
-  <li><a href="https://google.github.io/styleguide/htmlcssguide.html">Google HTML Style Guide</a></li>
   <li><a href="https://google.github.io/styleguide/jsguide.html">Google JavaScript Style Guide</a></li>
+
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
+
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a>
     <ul>
       <li><a href="https://www.w3.org/Style/CSS/">W3C CSS Working Group</a></li>
     </ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing">Cross browser testing</a></li>
+
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website">Publishing your website</a>
     <ul>
       <li><a href="https://pages.github.com/">GitHub Pages</a></li>
       <li><a href="https://cloud.google.com/appengine/">Google App Engine</a></li>
     </ul>
   </li>
-  <li><a href="https://devdocs.io/">devdocs.io</a></li>
 </ul>
 
 
@@ -42,6 +43,7 @@
   <li><a href="https://atom.io/">Atom Editor</a>
     <ul>
       <li><a href="https://github.com/nwinkler/atom-keyboard-shortcuts">Atom Keyboard Shortcuts</a></li>
+    </ul>
   </li>
 </ul>
 
