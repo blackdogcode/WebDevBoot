@@ -11,8 +11,6 @@
   
   <li><a href="https://google.github.io/styleguide/jsguide.html">Google JavaScript Style Guide</a></li>
 
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
-
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS reference</a>
     <ul>
       <li><a href="https://www.w3.org/Style/CSS/">W3C CSS Working Group</a></li>
