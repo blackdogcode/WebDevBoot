@@ -3,9 +3,7 @@
   <li><strong>HTML: HyperText Markup Language</strong>
     <ul>
       <li><a href="https://google.github.io/styleguide/htmlcssguide.html">Google HTML Style Guide</a></li>
-      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN Web Docs</a></li>
-      <li><a href="https://www.w3schools.com/html/">w3schools</a></li>
-      <li><a href="https://devdocs.io/html/">devdocs</a></li>
+      <li><a href="https://t.ly/wtiu">MDN Web Docs</a>, <a href="https://t.ly/ZyDq">w3schools</a>, <a href="https://t.ly/8hTw">devdocs</a></li>
     </ul>
   </li>
   
