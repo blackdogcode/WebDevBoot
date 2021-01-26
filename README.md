@@ -1,5 +1,12 @@
 ## References
 <ul>
+  <li><strong>HTML: HyperText Markup Language</strong>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN Web Docs - HTML</a></li>
+    </ul>
+  </li>
+  
+  
   <li><a href="https://google.github.io/styleguide/htmlcssguide.html">Google HTML Style Guide</a></li>
   <li><a href="https://google.github.io/styleguide/jsguide.html">Google JavaScript Style Guide</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements reference</a></li>
