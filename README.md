@@ -26,47 +26,6 @@
   <li><a href="https://devdocs.io/">devdocs.io</a></li>
 </ul>
 
-## References
-<ul>
-  <li><a href="https://www.tutorialspoint.com/internet_technologies">Internet Technology Overview</a>
-    <ul>
-      <li><a href="https://www.tutorialspoint.com/internet_technologies/internet_reference_models.htm">OSI and TCP/IP Model</a></li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.tutorialspoint.com/internet_technologies/e_mail_overview.htm">E-mail Overview</a>
-    <ul>
-      <li><a href="https://www.tutorialspoint.com/internet_technologies/e_mail_protocols.htm">E-mail Protocols(SMTP, IMAP, POP)</a></li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.geeksforgeeks.org/web-server-and-its-type/?ref=lbp">Web Server and Its Type</a>
-    <ul>
-      <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/?ref=lbp">Difference Between Web server and Application server</a></li>
-      <li><a href="https://www.geeksforgeeks.org/difference-between-apache-tomcat-server-and-apache-web-server/?ref=lbp">Difference between Apache Tomcat server and Apache web server</a></li>
-    </ul>
-  </li>
-  
-  
-  
-  <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA?</a></li>
-  <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a>
-    <ul>
-      <li>RESTful systems == REST-compliant systems</li>
-      <li>In the REST architectural style, the implementation of the client and tof the server can be done <strong>independently.</strong></li>
-      <li>Each side knows what format of messages to send to the other, they can be kept modular and seperate.</li>
-      <li><strong>Statelessness:</strong> Server and Client doest not need to know their states in REST Architecture</li>
-    </ul>
-  </li>
-  <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD(Create, Read, Update, Delete)?</a></li>
-  <li><a href="https://www.onelogin.com/learn/how-single-sign-on-works">How does single sign-on work?</a></li>
-  <li><a href="https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US">What are IMAP and POP?</a></li>
-  <li><a href="https://www.cloudflare.com/learning/cdn/what-is-a-cdn/">What is CDN(Content Delivery Network)?</a></li>
-  <li><a href="https://d2.naver.com/helloworld/24942">Waht is OAuth?</a></li>
-  <li><a href="https://www.ibm.com/cloud/learn/web-server-vs-application-server">Web Server vs. Application Server</a></li>
-</ul>
-
-
 ## Web Dev Tools
 <ol>
   <li><a href="https://validator.w3.org/">W3C Markup Validation Service</a></li>
@@ -509,4 +468,46 @@
   <li><a href="http://web.archive.org/">Web Archive</a></li>
   
   <li><a href="https://www.submarinecablemap.com/">Submarine Cable Map</a></li>
+  
+    <li><a href="https://www.tutorialspoint.com/internet_technologies">Internet Technology Overview</a>
+    <ul>
+      <li><a href="https://www.tutorialspoint.com/internet_technologies/internet_reference_models.htm">OSI and TCP/IP Model</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="https://www.tutorialspoint.com/internet_technologies/e_mail_overview.htm">E-mail Overview</a>
+    <ul>
+      <li><a href="https://www.tutorialspoint.com/internet_technologies/e_mail_protocols.htm">E-mail Protocols(SMTP, IMAP, POP)</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/web-server-and-its-type/?ref=lbp">Web Server and Its Type</a>
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/?ref=lbp">Difference Between Web server and Application server</a></li>
+      <li><a href="https://www.geeksforgeeks.org/difference-between-apache-tomcat-server-and-apache-web-server/?ref=lbp">Difference between Apache Tomcat server and Apache web server</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="https://www.computerworld.com/article/2551058/rich-internet-applications.html">What is RIA?</a></li>
+
+  <li><a href="https://www.codecademy.com/articles/what-is-rest">What is REST?</a>
+    <ul>
+      <li>RESTful systems == REST-compliant systems</li>
+      <li>In the REST architectural style, the implementation of the client and tof the server can be done <strong>independently.</strong></li>
+      <li>Each side knows what format of messages to send to the other, they can be kept modular and seperate.</li>
+      <li><strong>Statelessness:</strong> Server and Client doest not need to know their states in REST Architecture</li>
+    </ul>
+  </li>
+
+  <li><a href="https://www.codecademy.com/articles/what-is-crud">What is CRUD(Create, Read, Update, Delete)?</a></li>
+
+  <li><a href="https://www.onelogin.com/learn/how-single-sign-on-works">How does single sign-on work?</a></li>
+ 
+  <li><a href="https://support.office.com/en-us/article/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9?fromAR=1&omkt=en-US&ui=en-US&rs=en-US&ad=US">What are IMAP and POP?</a></li>
+  
+  <li><a href="https://www.cloudflare.com/learning/cdn/what-is-a-cdn/">What is CDN(Content Delivery Network)?</a></li>
+  
+  <li><a href="https://d2.naver.com/helloworld/24942">Waht is OAuth?</a></li>
+  
+  <li><a href="https://www.ibm.com/cloud/learn/web-server-vs-application-server">Web Server vs. Application Server</a></li>
 </ul>
