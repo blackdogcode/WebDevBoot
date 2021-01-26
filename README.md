@@ -27,7 +27,9 @@
 </ul>
 
 ## Web Dev Tools
-<ol>
+<ul>
+  <li><a href="https://codepen.io/">CodePen - ad hoc front-end code snippet testing web envrionment</a></li>
+  
   <li><a href="https://validator.w3.org/">W3C Markup Validation Service</a></li>
   <li><a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools for Web Developers</a>
     <ul>
@@ -38,7 +40,7 @@
     <ul>
       <li><a href="https://github.com/nwinkler/atom-keyboard-shortcuts">Atom Keyboard Shortcuts</a></li>
   </li>
-</ol>
+</u;>
 
 
 ## 1. [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
