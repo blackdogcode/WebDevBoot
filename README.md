@@ -1,6 +1,6 @@
 ## References
 <ul>
-  <li><strong>HTML: HyperText Markup Language</strong>
+  <li><strong><abbr title="HyperText Markup Language">HTML</abbr></strong>
     <ul>
       <li><a href="https://google.github.io/styleguide/htmlcssguide.html">Google HTML Style Guide</a></li>
       <li><a href="https://t.ly/wtiu">MDN Web Docs</a>, <a href="https://t.ly/ZyDq">w3schools</a>, <a href="https://t.ly/8hTw">devdocs</a></li>
